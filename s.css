@@ -1,0 +1,29 @@
+h2{
+    text-align: center;
+}
+
+table {
+    width: 90%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background: white;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background: blue;
+    color: white;
+}
+
+.hasil {
+    width: 70%;
+    margin: 20px auto;
+    background: white;
+    padding: 15px;
+    border: 1px solid black;
+}
